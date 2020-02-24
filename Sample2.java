@@ -1,4 +1,3 @@
-package E2;
 
 import java.text.DecimalFormat;
 
